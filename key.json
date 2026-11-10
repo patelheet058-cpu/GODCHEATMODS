@@ -22,13 +22,6 @@
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
   "Keys": {
-    "DPMods-5ZAAH7": {
-      "hwid": "RESET",
-      "expireDate": "Life",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    },
     "DPMods-4MS4S2": {
       "hwid": "RESET",
       "expireDate": "Life",
