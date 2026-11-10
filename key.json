@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Active",
       "userRank": "Supreme User"
+    },
+    "DPMods-BLB8QY": {
+      "hwid": "21AA2BA3511B3FFD",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
