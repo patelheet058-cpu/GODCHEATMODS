@@ -20,13 +20,6 @@
   },
   "BannedHWIDs": {},
   "Keys": {
-    "21AA2BA3511B3FFD": {
-      "hwid": "RESET",
-      "expireDate": "Life",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    },
     "DPMods-NB3N1D": {
       "hwid": "RESET",
       "expireDate": "Life",
